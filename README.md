@@ -1,2 +1,5 @@
-![](https://github-readme-stats.vercel.app/api?username=azam&theme=transparent&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azam&theme=transparent&show_icons=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azam&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=azam&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azam&theme=transparent&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azam&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azam&theme=transparent)
